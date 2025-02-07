@@ -396,6 +396,7 @@
 {
     "recJobMajorCategory": "의료",
     "recJobSubCategory": [
+        "의사",
         "간호사",
         "간호조무사",
         "놀이치료사",
